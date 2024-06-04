@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+#FRONT PROYECTO SIMULACION 2024-1
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
